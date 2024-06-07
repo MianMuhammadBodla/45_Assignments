@@ -1,0 +1,9 @@
+For typescript assignments;
+
+first creaate file name as index.ts 
+then write your code
+then write in terminal tsc --init
+then write in terminal tsc
+need previous steps one time in one project
+then write in terminal node index.js
+after that your code will run or output will show in terminal
